@@ -221,6 +221,17 @@ bannu-digital-hub/
 
 ---
 
+## 👨‍💻 Frontend Developer
+
+Designed, engineered, and developed by **Kashan Khan**:
+
+- **Portfolio & Website:** [https://aiwithkashan.tech](https://aiwithkashan.tech)
+- **Email:** [contact@aiwithkashan.tech](mailto:contact@aiwithkashan.tech)
+- **LinkedIn:** [linkedin.com/in/aiwithkashan](https://linkedin.com/in/aiwithkashan)
+- **WhatsApp:** [+92 302 9137754](https://wa.me/923029137754)
+
+---
+
 ## 📄 License
 
 This project is open-source under the [MIT License](LICENSE).
