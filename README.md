@@ -217,7 +217,6 @@ bannu-digital-hub/
 - **Address:** Asmatullah Plaza, 2nd Floor, Railway Road, Bannu City, Khyber Pakhtunkhwa 28100, Pakistan
 - **Phone:** `+92 335 9915641`
 - **Email:** [support@bannudigitalhub.com](mailto:support@bannudigitalhub.com)
-- **Live Website:** [https://bdh-seven.vercel.app](https://bdh-seven.vercel.app)
 
 ---
 
