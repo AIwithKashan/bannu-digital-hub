@@ -1,0 +1,372 @@
+{
+ "shopify": [
+  {
+   "n": 1,
+   "title": "Foundations",
+   "subtitle": "E-commerce samjho, phir shuru karo",
+   "duration": "Week 1",
+   "goal": "E-commerce models samajhna aur apna niche select karna",
+   "steps": [
+    {
+     "title": "E-commerce models samjho",
+     "details": "Dropshipping, wholesale, white-label aur print-on-demand ka farq seekho. Pakistan me COD (Cash on Delivery) sab se popular model hai: customer pehle order karta hai, payment delivery par hoti hai.",
+     "time": "2 days"
+    },
+    {
+     "title": "Apna niche select karo",
+     "details": "Ek category chuno jisme interest ho: fashion, beauty, electronics accessories, home & kitchen, ya fitness. Broad \"general store\" se behtar hai ek focused niche: marketing asaan hoti hai aur brand banta hai.",
+     "time": "2 days"
+    },
+    {
+     "title": "Competitors research karo",
+     "details": "Daraz, Facebook aur Instagram par apne niche ke 10 successful stores dhoondo. Unki pricing, product photos, aur customer reviews note karo. Yehi tumhara free market research hai.",
+     "time": "3 days"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Store Setup",
+   "subtitle": "Apna Shopify store live karo",
+   "duration": "Week 2",
+   "goal": "Ek professional Shopify store ready — products ke sath",
+   "steps": [
+    {
+     "title": "Shopify account banao",
+     "details": "Shopify.com par 3-day free trial start karo (phir $1/month pehle 3 months). Store ka naam apne niche se related rakho: chota, yaad rehne wala, aur .com domain ke sath.",
+     "time": "1 day"
+    },
+    {
+     "title": "Theme select aur customize karo",
+     "details": "Free theme \"Dawn\" se start karo: fast aur mobile-friendly hai. Apna logo (Canva se free me banao), brand colors, aur homepage banners lagao. Mobile par check karna mat bhoolo: 80%+ traffic mobile se aata hai.",
+     "time": "2 days"
+    },
+    {
+     "title": "Essential pages banao",
+     "details": "About Us, Contact, Shipping Policy, Return/Refund Policy, Privacy Policy aur Terms of Service: ye 6 pages lazmi hain. Inke baghair customer trust nahi karega aur Meta ads reject ho sakte hain.",
+     "time": "1 day"
+    },
+    {
+     "title": "Payment aur shipping set karo",
+     "details": "Pakistan me COD default rakho. JazzCash/Easypaisa ke liye manual payment method add karo. Shipping rates set karo: free shipping Rs. 2,000+ orders par, warna flat Rs. 200-250.",
+     "time": "1 day"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Product Research & Sourcing",
+   "subtitle": "Winning products dhoondo",
+   "duration": "Week 3",
+   "goal": "10-15 tested products ready to sell",
+   "steps": [
+    {
+     "title": "Winning product criteria seekho",
+     "details": "Acha product: masla hal kare, Rs. 1,500-4,000 price range me ho, halka ho (shipping sasti), aur emotional buying trigger kare (beauty, health, convenience, status).",
+     "time": "2 days"
+    },
+    {
+     "title": "Suppliers dhoondo",
+     "details": "Local: Shah Alam Market (Lahore), Bolton Market (Karachi), ya China se Alibaba/1688. Start me local supplier behtar: fast delivery, COD asaan. 3-4 suppliers se rates compare karo.",
+     "time": "3 days"
+    },
+    {
+     "title": "Products list karo (high-quality content ke sath)",
+     "details": "Har product ke liye: 5-7 achi photos (supplier se lo ya khud shoot karo), clear title, benefits-focused description (features nahi, faiday likho), aur honest pricing. Pehle 10 products list karo.",
+     "time": "2 days"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Store Optimization",
+   "subtitle": "Visitors ko buyers me badlo",
+   "duration": "Week 4",
+   "goal": "Conversion rate 2%+ (har 100 visitors me se 2+ orders)",
+   "steps": [
+    {
+     "title": "Product pages optimize karo",
+     "details": "Har product page par: customer reviews section, trust badges (COD available, 7-day return), WhatsApp order button, aur related products. \"Buy Now\" button sab se prominent ho.",
+     "time": "2 days"
+    },
+    {
+     "title": "Speed optimize karo",
+     "details": "Images compress karo (TinyPNG use karo), unnecessary apps hatao, aur theme ka code clean rakho. Store 3 second me load hona chahiye: har extra second 7% conversion kam karta hai.",
+     "time": "1 day"
+    },
+    {
+     "title": "Abandoned cart recovery set karo",
+     "details": "Shopify ka built-in abandoned cart email on karo + WhatsApp par manual follow-up. Pakistan me WhatsApp follow-up se 20-30% carts recover hote hain.",
+     "time": "1 day"
+    },
+    {
+     "title": "Test order karo",
+     "details": "Khud ek test order place karo: checkout se lekar delivery tak pura flow check karo. Jo friction mile, foran fix karo.",
+     "time": "1 day"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Marketing & First Sales",
+   "subtitle": "Pehli sales lao",
+   "duration": "Week 5-8",
+   "goal": "Pehle 50 orders — marketing seekhna",
+   "steps": [
+    {
+     "title": "Facebook/Instagram page banao",
+     "details": "Business page + Instagram business account. Roz 1 post: product videos, customer reviews, behind-the-scenes. Pehle 500 followers organic lao: friends, family, aur niche groups se.",
+     "time": "Ongoing"
+    },
+    {
+     "title": "TikTok organic marketing",
+     "details": "Roz 1-2 short videos: product demo, unboxing, before/after. TikTok Pakistan me free reach ka best source hai. Ek viral video = 100+ orders.",
+     "time": "Ongoing"
+    },
+    {
+     "title": "Meta ads start karo (small budget)",
+     "details": "Rs. 1,000/day se start karo. Pehle \"Video Views\" campaign se audience warm karo, phir \"Sales\" campaign. Ek product, ek video ad, ek audience: simple rakho. 3 din me result na aaye to ad change karo, budget nahi barhao.",
+     "time": "Week 6+"
+    },
+    {
+     "title": "Influencer marketing try karo",
+     "details": "Micro-influencers (10K-50K followers) ko free product bhejo barter par. Unki story/post se pehli sales aati hain aur social proof banta hai.",
+     "time": "Week 7+"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Operations",
+   "subtitle": "Orders handle karna seekho",
+   "duration": "Week 8-12",
+   "goal": "Smooth daily operations — 10+ orders/day handle karna",
+   "steps": [
+    {
+     "title": "Order fulfillment system banao",
+     "details": "Roz subah orders print karo, packing karo, aur courier book karo. TCS, Leopards, ya PostEx: rates compare karke ek select karo. Tracking number customer ko WhatsApp par bhejo.",
+     "time": "1 week setup"
+    },
+    {
+     "title": "Customer service ka flow banao",
+     "details": "WhatsApp Business app use karo: quick replies (price, delivery time, return policy), catalog, aur labels (New Order, Shipped, Delivered). Fast reply = repeat customer.",
+     "time": "3 days"
+    },
+    {
+     "title": "Returns handle karna seekho",
+     "details": "Clear return policy rakho: 7-day easy return. Return ka kharcha customer par (ya Rs. 2,500+ orders par free). Har return se seekho: product ya description me kya masla tha?",
+     "time": "Ongoing"
+    },
+    {
+     "title": "Hisab-kitab rakho",
+     "details": "Simple Excel sheet: daily sales, ad spend, product cost, courier cost, profit. Har hafte review karo: kaunsa product profit de raha hai, kaunsa band karna hai.",
+     "time": "1 day setup"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Scale",
+   "subtitle": "Rs. 1 lakh/month se aage",
+   "duration": "Month 4+",
+   "goal": "Rs. 300,000+/month revenue — team aur systems ke sath",
+   "steps": [
+    {
+     "title": "Winning products par focus karo",
+     "details": "Jo 3-5 products sab se zyada bik rahe hain, unhi par ad budget lagao. Losers ko hatao. \"Hero products\" par bundles aur upsells banao (Buy 2 Get 1, etc.).",
+     "time": "Ongoing"
+    },
+    {
+     "title": "Ad budget scale karo (profitably)",
+     "details": "Jab ROAS (Return on Ad Spend) 3x+ ho, budget 20% har 3 din me barhao. Naye audiences test karo: lookalike, broad, interest stacking. Creative har 2 hafte refresh karo.",
+     "time": "Ongoing"
+    },
+    {
+     "title": "Team banao",
+     "details": "Pehli hire: packer/helper (Rs. 25-30K). Dusri: customer service rep. Teesri: video editor/content creator. Tum sirf strategy aur growth par focus karo.",
+     "time": "Month 5+"
+    },
+    {
+     "title": "Brand banao, sirf store nahi",
+     "details": "Apni packaging, apna logo har parcel par, thank-you card, aur email list banao. Brand wale stores 3x zyada repeat customers lete hain.",
+     "time": "Month 6+"
+    }
+   ]
+  }
+ ],
+ "amazon": [
+  {
+   "n": 1,
+   "title": "Amazon Models Samjho",
+   "subtitle": "Kaunsa model tumhare liye sahi hai",
+   "duration": "Week 1",
+   "goal": "Sahi business model choose karna",
+   "steps": [
+    {
+     "title": "Amazon ke models samjho",
+     "details": "Private Label (apna brand): zyada profit, zyada investment. Wholesale (dusron ke brands becho): tez start. Online Arbitrage (saste me khareed ke Amazon par becho): kam investment se shuruat. Dropshipping Amazon par risky hai: avoid karo.",
+     "time": "2 din"
+    },
+    {
+     "title": "Pakistan se Amazon — reality check",
+     "details": "Pakistan direct seller countries me nahi hai. Tumhe US/UK ki company (LLC/LTD), US address, aur US bank account (Payoneer/Wise) chahiye hoga. Ye setup $300-500 me ho jata hai. Bina iske account ban sakta hai lekin limited rahega.",
+     "time": "1 din"
+    },
+    {
+     "title": "Budget aur model final karo",
+     "details": "Beginners ke liye Online Arbitrage ya Wholesale best hai ($500-1,000 se start). Private Label ke liye $3,000-5,000 chahiye. Apne budget ke hisab se model choose karo aur usi par focus rakho.",
+     "time": "1 din"
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Seller Account Setup",
+   "subtitle": "Professional seller account banao",
+   "duration": "Week 2-3",
+   "goal": "Verified Amazon seller account",
+   "steps": [
+    {
+     "title": "Documents tayyar karo",
+     "details": "Passport ya CNIC (English), bank statement (address proof), credit/debit card (international), phone number, email. Company documents (LLC) agar Private Label/Wholesale karna hai.",
+     "time": "2-3 din"
+    },
+    {
+     "title": "Seller Central par register karo",
+     "details": "sellercentral.amazon.com par jao → Professional plan ($39.99/month) select karo. Saari details carefully bharo: ghalat info se account suspend ho sakta hai. Video verification call ke liye tayyar raho.",
+     "time": "1 din"
+    },
+    {
+     "title": "Tax aur bank info add karo",
+     "details": "W-8BEN form (non-US sellers ke liye), Payoneer/Wise US bank details add karo. Ye step miss hua to payments atak jayengi.",
+     "time": "1 din"
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "Product Research",
+   "subtitle": "Winning product dhoondo",
+   "duration": "Week 3-5",
+   "goal": "3-5 potential products ki shortlist",
+   "steps": [
+    {
+     "title": "Research tools seekho",
+     "details": "Helium 10 ya Jungle Scout (paid tools): monthly searches, competition, revenue estimates dekhte hain. Free start: Amazon search bar suggestions, Best Sellers list, aur Keepa (price history) use karo.",
+     "time": "3-4 din"
+    },
+    {
+     "title": "Product criteria apply karo",
+     "details": "Price $15-50, halka wazan (shipping sasta), 4+ star ratings wala niche jahan top sellers ke reviews 500 se kam hon, saal bhar demand ho (seasonal avoid karo start me).",
+     "time": "5-7 din"
+    },
+    {
+     "title": "Competition analyze karo",
+     "details": "Top 10 competitors dekho: unke reviews, price, listing quality. Agar sab ke 5,000+ reviews hain to wo niche chhor do. Kamzor listing = tumhara mauqa.",
+     "time": "2-3 din"
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "Sourcing",
+   "subtitle": "Supplier dhoondo aur sample mangwao",
+   "duration": "Week 5-7",
+   "goal": "Reliable supplier se pehla order",
+   "steps": [
+    {
+     "title": "Alibaba par suppliers dhoondo",
+     "details": "3-5 suppliers ko message karo: price, MOQ, sample cost pucho. Trade Assurance wala supplier chuno. Sample zaroor mangwao ($30-50): bina dekhe bara order kabhi mat do.",
+     "time": "1 hafta"
+    },
+    {
+     "title": "Sample check karo",
+     "details": "Quality, packaging, size: sab check karo. Kamzor sample = supplier change karo. Achi quality hi reviews aur repeat sales layegi.",
+     "time": "1 hafta (shipping)"
+    },
+    {
+     "title": "Pehla inventory order do",
+     "details": "Start chota karo: 100-200 units. Shipping method: air (tez, mehnga) ya sea (sasta, 30-40 din). FBA ke liye Amazon warehouse bhejo: Amazon khud pack aur ship karega.",
+     "time": "2-4 hafte (production + shipping)"
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Listing Optimization",
+   "subtitle": "Aisi listing jo beche",
+   "duration": "Week 7-8",
+   "goal": "High-converting product listing",
+   "steps": [
+    {
+     "title": "Title aur bullets likho",
+     "details": "Title: main keyword + key features (200 characters). 5 bullet points: har ek ek faida bataye, keywords naturally use hon. Backend search terms bhi bharo (250 bytes).",
+     "time": "1-2 din"
+    },
+    {
+     "title": "Professional images lagao",
+     "details": "7 images: white background main image, lifestyle shots, infographics (size/features), comparison chart. Achi images conversion 30%+ barhati hain: ye investment hai, kharcha nahi.",
+     "time": "3-5 din"
+    },
+    {
+     "title": "A+ Content aur Brand Registry",
+     "details": "Brand Registry (trademark ke sath) karwao: phir A+ Content (rich images) add karo. Ye trust barhata hai aur conversion improve karta hai.",
+     "time": "1 hafta"
+    }
+   ]
+  },
+  {
+   "n": 6,
+   "title": "Launch & PPC",
+   "subtitle": "Pehli sales lao",
+   "duration": "Week 8-10",
+   "goal": "Pehle 30 din me 50+ sales",
+   "steps": [
+    {
+     "title": "Amazon PPC campaigns chalao",
+     "details": "3 campaign types: Auto (keywords dhoondo), Manual (exact keywords), Product targeting (competitors). Start $10-20/day se. Har 3 din me optimize karo: bekar keywords band, achon ka budget barhao.",
+     "time": "Ongoing"
+    },
+    {
+     "title": "Pehle reviews hasil karo",
+     "details": "Amazon Vine program join karo (30 reviews tak). 'Request a Review' button har order par dabao. Kabhi fake reviews mat khareedo: account suspend ho jayega.",
+     "time": "2-4 hafte"
+    },
+    {
+     "title": "Price strategy set karo",
+     "details": "Launch me thoda kam price rakho (competitors se 10-15% kam), reviews aane ke baad normal karo. Coupon (5-10% off) lagao: green badge click barhata hai.",
+     "time": "1 din"
+    }
+   ]
+  },
+  {
+   "n": 7,
+   "title": "Scale Karo",
+   "subtitle": "$5,000+/month ki taraf",
+   "duration": "Month 4+",
+   "goal": "Multiple products, stable profit",
+   "steps": [
+    {
+     "title": "Dusra product launch karo",
+     "details": "Pehle product ka profit dusre product me lagao. Same niche me variations (size/color) ya complementary products: existing customers ko dobara becho.",
+     "time": "Month 4-5"
+    },
+    {
+     "title": "PPC optimize aur TACOS track karo",
+     "details": "TACOS (Total Ad Cost of Sales) 10-15% par rakho. Brand campaigns alag, competitor targeting alag. Jo keyword profit nahi de raha, use pause karo.",
+     "time": "Ongoing"
+    },
+    {
+     "title": "International expand karo",
+     "details": "US me kamyab product ko UK, Canada, UAE me launch karo. Amazon ka 'Build International Listings' tool use karo: ek listing, multiple markets.",
+     "time": "Month 6+"
+    },
+    {
+     "title": "Hisab-kitab tight rakho",
+     "details": "Har product ka alag P&L: product cost, shipping, Amazon fees (15% referral + FBA), PPC, returns. Net margin 25%+ hona chahiye warna product change karo.",
+     "time": "Monthly"
+    }
+   ]
+  }
+ ]
+}

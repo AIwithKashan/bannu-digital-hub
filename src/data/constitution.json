@@ -1,0 +1,1559 @@
+[
+ {
+  "n": 1,
+  "title": "Introduction",
+  "tag": "Governance",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Bannu Digital Hub (BDH) is a community-driven, non-profit initiative established to connect freelancers, students, digital professionals, entrepreneurs, and individuals interested in learning digital skills in Bannu and surrounding areas. BDH aims to create a supportive environment where people can share knowledge, develop professional skills, exchange experiences, build portfolios, and help others access opportunities in the digital economy. We believe that knowledge becomes more valuable when it is shared. By helping others learn and become self-reliant, we aim to contribute positively to our community. BDH is built on the principles of sincerity, cooperation, respect, transparency, and collective progress."
+   },
+   {
+    "t": "p",
+    "x": "Important clarification:"
+   },
+   {
+    "t": "p",
+    "x": "BDH's non-profit purpose means that its community activities are intended to serve the public and its members rather than distribute organizational profits to individuals. This document establishes internal community rules; it does not, by itself, establish legal registration or tax-exempt status."
+   }
+  ]
+ },
+ {
+  "n": 2,
+  "title": "Vision, Mission & Core Purpose",
+  "tag": "Governance",
+  "blocks": [
+   {
+    "t": "sub",
+    "n": "2.1",
+    "x": "Our Vision"
+   },
+   {
+    "t": "p",
+    "x": "To develop a skilled, confident, and digitally empowered community in Bannu where people from different financial and educational backgrounds can learn, collaborate, and contribute to a better future."
+   },
+   {
+    "t": "sub",
+    "n": "2.2",
+    "x": "Our Mission"
+   },
+   {
+    "t": "p",
+    "x": "Connect freelancers, students, digital professionals, and entrepreneurs."
+   },
+   {
+    "t": "p",
+    "x": "Promote digital education and practical skill development."
+   },
+   {
+    "t": "p",
+    "x": "Encourage experienced professionals to guide beginners."
+   },
+   {
+    "t": "p",
+    "x": "Help members improve their portfolios and professional profiles."
+   },
+   {
+    "t": "p",
+    "x": "Organize educational sessions, workshops, seminars, and community events."
+   },
+   {
+    "t": "p",
+    "x": "Encourage ethical freelancing, entrepreneurship, and responsible use of technology."
+   },
+   {
+    "t": "p",
+    "x": "Help individuals from lower- and middle-income backgrounds access digital learning and professional development."
+   },
+   {
+    "t": "p",
+    "x": "Build a culture of collaboration rather than unhealthy competition."
+   },
+   {
+    "t": "sub",
+    "n": "2.3",
+    "x": "Our Core Philosophy: Sadqa-e-Jariya"
+   },
+   {
+    "t": "p",
+    "x": "One of BDH's central motivations is to share knowledge as an act of community service and, for those who intend it, as a means of seeking the reward of Sadqa-e-Jariya. We believe that teaching someone a useful skill, guiding a student, helping a beginner understand freelancing, or enabling someone to become financially independent can create lasting benefits. BDH encourages members to contribute according to their abilities, time, experience, and willingness."
+   },
+   {
+    "t": "p",
+    "x": "Our principle:"
+   },
+   {
+    "t": "p",
+    "x": "We aim to help people become capable of earning for themselves, rather than promising earnings simply for joining BDH."
+   }
+  ]
+ },
+ {
+  "n": 3,
+  "title": "Non-Profit Nature of BDH",
+  "tag": "Finance",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "BDH is intended to operate as a non-profit community initiative."
+   },
+   {
+    "t": "li",
+    "x": "Its primary purpose is education, skill development, collaboration, and community welfare."
+   },
+   {
+    "t": "li",
+    "x": "Membership does not guarantee a salary, stipend, commission, client, job, or other financial reward."
+   },
+   {
+    "t": "li",
+    "x": "No member should join with the expectation of automatically earning money from BDH."
+   },
+   {
+    "t": "li",
+    "x": "Organizational funds, if collected, must be used for approved community purposes."
+   },
+   {
+    "t": "li",
+    "x": "Organizational funds must not be distributed among members as personal profit."
+   },
+   {
+    "t": "li",
+    "x": "Any legitimate payment for approved services, such as venue rental, printing, equipment, or professional training, must be properly documented."
+   },
+   {
+    "t": "li",
+    "x": "Members may independently earn money through their own businesses, freelancing services, employment, or client projects."
+   },
+   {
+    "t": "li",
+    "x": "BDH does not prohibit paid professional work between members. Such arrangements must be voluntary, transparent, and agreed upon by the parties involved."
+   },
+   {
+    "t": "li",
+    "x": "Any future sponsorship, donation, membership contribution, or event fee must be handled transparently."
+   },
+   {
+    "t": "p",
+    "x": "BDH will not promise guaranteed employment, client acquisition, income, or business growth to any member."
+   }
+  ]
+ },
+ {
+  "n": 4,
+  "title": "Membership Policy",
+  "tag": "Governance",
+  "blocks": [
+   {
+    "t": "sub",
+    "n": "4.1",
+    "x": "Who Can Join?"
+   },
+   {
+    "t": "p",
+    "x": "Membership is open to individuals interested in digital skills, freelancing, technology, entrepreneurship, and community development, including:"
+   },
+   {
+    "t": "p",
+    "x": "Freelancers and remote workers."
+   },
+   {
+    "t": "p",
+    "x": "Students and beginners."
+   },
+   {
+    "t": "p",
+    "x": "Web developers and software developers."
+   },
+   {
+    "t": "p",
+    "x": "Graphic designers and video editors."
+   },
+   {
+    "t": "p",
+    "x": "Digital marketers and e-commerce professionals."
+   },
+   {
+    "t": "p",
+    "x": "Content creators and photographers."
+   },
+   {
+    "t": "p",
+    "x": "SEO specialists and other digital service providers."
+   },
+   {
+    "t": "p",
+    "x": "Entrepreneurs and business owners."
+   },
+   {
+    "t": "p",
+    "x": "Individuals interested in learning digital skills."
+   },
+   {
+    "t": "p",
+    "x": "Membership should be accessible regardless of financial background, provided that members follow BDH's rules."
+   },
+   {
+    "t": "sub",
+    "n": "4.2",
+    "x": "Membership Principles"
+   },
+   {
+    "t": "p",
+    "x": "Every member is expected to:"
+   },
+   {
+    "t": "p",
+    "x": "Respect other members."
+   },
+   {
+    "t": "p",
+    "x": "Participate honestly and constructively."
+   },
+   {
+    "t": "p",
+    "x": "Follow community policies."
+   },
+   {
+    "t": "p",
+    "x": "Avoid discrimination, harassment, and personal attacks."
+   },
+   {
+    "t": "p",
+    "x": "Share accurate information about their skills and experience."
+   },
+   {
+    "t": "p",
+    "x": "Respect other people's time, privacy, and intellectual property."
+   },
+   {
+    "t": "p",
+    "x": "Contribute according to their abilities without pressuring others."
+   },
+   {
+    "t": "sub",
+    "n": "4.3",
+    "x": "Voluntary Participation"
+   },
+   {
+    "t": "p",
+    "x": "Membership is voluntary. Members may participate according to their availability and interests. No member should be forced to provide free work, donate money, teach others, attend events, or take on responsibilities against their will. Members who volunteer their time should receive appropriate respect and recognition."
+   },
+   {
+    "t": "sub",
+    "n": "4.4",
+    "x": "Membership Registration and Records"
+   },
+   {
+    "t": "p",
+    "x": "BDH may maintain a membership record containing relevant information, such as a member's name, professional skills, preferred contact information, and participation in community activities. Only information reasonably necessary for community management should be collected. Personal information must not be shared publicly without permission, except where disclosure is legally required."
+   }
+  ]
+ },
+ {
+  "n": 5,
+  "title": "Member Rights",
+  "tag": "Governance",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Every member has the right to:"
+   },
+   {
+    "t": "li",
+    "x": "Be treated respectfully and fairly."
+   },
+   {
+    "t": "li",
+    "x": "Participate in eligible learning activities and community discussions."
+   },
+   {
+    "t": "li",
+    "x": "Share knowledge, experiences, and professional achievements."
+   },
+   {
+    "t": "li",
+    "x": "Suggest new projects, workshops, and initiatives."
+   },
+   {
+    "t": "li",
+    "x": "Raise concerns about management or community conduct."
+   },
+   {
+    "t": "li",
+    "x": "Receive clear information about organizational decisions and finances relevant to members."
+   },
+   {
+    "t": "li",
+    "x": "Volunteer for leadership or support roles, subject to the applicable eligibility rules."
+   },
+   {
+    "t": "li",
+    "x": "Decline unpaid work, donations, or volunteer responsibilities."
+   },
+   {
+    "t": "li",
+    "x": "Receive fair consideration when applying for opportunities organized by BDH."
+   },
+   {
+    "t": "li",
+    "x": "Leave the community voluntarily."
+   },
+   {
+    "t": "p",
+    "x": "Membership does not automatically entitle a person to clients, paid work, organizational funds, leadership positions, or guaranteed promotion."
+   }
+  ]
+ },
+ {
+  "n": 6,
+  "title": "Member Responsibilities",
+  "tag": "Conduct",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Every member should:"
+   },
+   {
+    "t": "p",
+    "x": "Communicate respectfully and professionally."
+   },
+   {
+    "t": "p",
+    "x": "Avoid spreading rumors or deliberately misleading information."
+   },
+   {
+    "t": "p",
+    "x": "Refrain from misrepresenting qualifications, experience, or achievements."
+   },
+   {
+    "t": "p",
+    "x": "Support a positive learning environment."
+   },
+   {
+    "t": "p",
+    "x": "Respect different levels of skill and experience."
+   },
+   {
+    "t": "p",
+    "x": "Avoid exploiting beginners or taking advantage of other members."
+   },
+   {
+    "t": "p",
+    "x": "Follow event instructions and safety requirements."
+   },
+   {
+    "t": "p",
+    "x": "Respect the decisions made through the established governance process."
+   },
+   {
+    "t": "p",
+    "x": "Report serious misconduct through the appropriate channel."
+   },
+   {
+    "t": "p",
+    "x": "Protect confidential information obtained through community activities."
+   },
+   {
+    "t": "p",
+    "x": "Members are encouraged to help others, but BDH recognizes that each person has different financial circumstances, commitments, and available time."
+   }
+  ]
+ },
+ {
+  "n": 7,
+  "title": "Community WhatsApp and Social Media Rules",
+  "tag": "Conduct",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "The official BDH communication channels exist for learning, networking, collaboration, and community coordination."
+   },
+   {
+    "t": "p",
+    "x": "7.1 Acceptable Content"
+   },
+   {
+    "t": "p",
+    "x": "Members may share:"
+   },
+   {
+    "t": "p",
+    "x": "Educational resources and tutorials."
+   },
+   {
+    "t": "p",
+    "x": "Genuine job, internship, and freelance opportunities."
+   },
+   {
+    "t": "p",
+    "x": "Digital tools and technology updates."
+   },
+   {
+    "t": "p",
+    "x": "Portfolio work and professional achievements."
+   },
+   {
+    "t": "p",
+    "x": "Relevant business or project collaboration requests."
+   },
+   {
+    "t": "p",
+    "x": "Event announcements and training information."
+   },
+   {
+    "t": "p",
+    "x": "Questions, constructive feedback, and requests for guidance."
+   },
+   {
+    "t": "p",
+    "x": "7.2 Prohibited Content"
+   },
+   {
+    "t": "p",
+    "x": "Members must not post:"
+   },
+   {
+    "t": "p",
+    "x": "Spam, scams, fraudulent offers, or misleading income claims."
+   },
+   {
+    "t": "p",
+    "x": "Abusive language, harassment, threats, or personal attacks."
+   },
+   {
+    "t": "p",
+    "x": "Unauthorized advertisements or repeated promotional messages."
+   },
+   {
+    "t": "p",
+    "x": "Other people's private information without permission."
+   },
+   {
+    "t": "p",
+    "x": "Pirated software, stolen work, or unauthorized copyrighted material."
+   },
+   {
+    "t": "p",
+    "x": "Fake job offers or suspicious payment requests."
+   },
+   {
+    "t": "p",
+    "x": "Content intended to create unnecessary conflict within the community."
+   },
+   {
+    "t": "p",
+    "x": "Political, religious, or other sensitive discussions should not be used to harass members or disrupt BDH's educational purpose."
+   },
+   {
+    "t": "sub",
+    "n": "7.3",
+    "x": "Self-Promotion and Business Promotion"
+   },
+   {
+    "t": "p",
+    "x": "Members may introduce their services and share relevant portfolio work within the rules established by the community administrators. However, BDH membership must not be used to repeatedly pressure members into buying services, investing money, or joining unrelated schemes. Admins may establish dedicated promotional days or separate channels if necessary."
+   }
+  ]
+ },
+ {
+  "n": 8,
+  "title": "Learning, Mentorship & Knowledge Sharing Policy",
+  "tag": "Operations",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "BDH encourages experienced members to help beginners through practical guidance, discussions, demonstrations, and mentorship. Possible activities include:"
+   },
+   {
+    "t": "p",
+    "x": "Freelancing guidance."
+   },
+   {
+    "t": "p",
+    "x": "Shopify and e-commerce training."
+   },
+   {
+    "t": "p",
+    "x": "Web development and software learning."
+   },
+   {
+    "t": "p",
+    "x": "Graphic design and video editing."
+   },
+   {
+    "t": "p",
+    "x": "Digital marketing and SEO."
+   },
+   {
+    "t": "p",
+    "x": "Portfolio development."
+   },
+   {
+    "t": "p",
+    "x": "Client communication and proposal writing."
+   },
+   {
+    "t": "p",
+    "x": "Personal branding and professional networking."
+   },
+   {
+    "t": "p",
+    "x": "Responsible use of AI and digital tools."
+   },
+   {
+    "t": "sub",
+    "n": "8.1",
+    "x": "Mentorship Guidelines"
+   },
+   {
+    "t": "li",
+    "x": "."
+   },
+   {
+    "t": "p",
+    "x": "Mentorship should be based on mutual respect and voluntary participation."
+   },
+   {
+    "t": "li",
+    "x": "."
+   },
+   {
+    "t": "p",
+    "x": "Mentors should not make false promises about income or employment."
+   },
+   {
+    "t": "li",
+    "x": "."
+   },
+   {
+    "t": "p",
+    "x": "Beginners should respect mentors' time and avoid unreasonable demands."
+   },
+   {
+    "t": "li",
+    "x": "."
+   },
+   {
+    "t": "p",
+    "x": "Members should not claim another person's work or knowledge as their own."
+   },
+   {
+    "t": "li",
+    "x": "."
+   },
+   {
+    "t": "p",
+    "x": "Training sessions must clearly state whether they are free or paid."
+   },
+   {
+    "t": "li",
+    "x": "."
+   },
+   {
+    "t": "p",
+    "x": "Any paid training offered independently by a member must be clearly distinguished from official BDH activities."
+   },
+   {
+    "t": "li",
+    "x": "."
+   },
+   {
+    "t": "p",
+    "x": "No member should be pressured to provide unlimited free consulting."
+   },
+   {
+    "t": "sub",
+    "n": "8.2",
+    "x": "Portfolio and Expert Profiles"
+   },
+   {
+    "t": "p",
+    "x": "BDH may publish member introductions, expert profiles, interviews, or portfolio showcases to recognize local talent. Before publishing identifiable photographs, personal details, or portfolio material, the relevant member's permission should be obtained. Information about qualifications and experience should be accurate. BDH's decision to feature a member does not constitute a guarantee of that member's services."
+   }
+  ]
+ },
+ {
+  "n": 9,
+  "title": "Professional Work, Clients & Collaboration",
+  "tag": "Operations",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "BDH may help members discover collaboration opportunities and connect with other professionals. However:"
+   },
+   {
+    "t": "p",
+    "x": "BDH does not guarantee clients or contracts."
+   },
+   {
+    "t": "p",
+    "x": "Members must agree on project scope, deadlines, payment, and responsibilities directly with the relevant parties."
+   },
+   {
+    "t": "p",
+    "x": "Paid work must not be presented as a guaranteed benefit of membership."
+   },
+   {
+    "t": "p",
+    "x": "Members must not misuse BDH's name, logo, or reputation to deceive clients."
+   },
+   {
+    "t": "p",
+    "x": "Client information and confidential project details must be protected."
+   },
+   {
+    "t": "p",
+    "x": "Disputes over independent commercial contracts should ordinarily be handled by the parties involved through their agreed process and applicable law."
+   },
+   {
+    "t": "p",
+    "x": "If BDH formally accepts responsibility for a project, the scope, ownership, budget, responsibilities, and payment arrangements should be documented in advance."
+   }
+  ]
+ },
+ {
+  "n": 10,
+  "title": "Leadership & Organizational Structure",
+  "tag": "Governance",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "BDH should operate through a transparent and accountable management structure. The following is a proposed structure that members can review and approve."
+   },
+   {
+    "t": "p",
+    "x": "10.1"
+   },
+   {
+    "t": "p",
+    "x": "General Membership"
+   },
+   {
+    "t": "p",
+    "x": "The general membership is the wider community of eligible members. Its responsibilities include:"
+   },
+   {
+    "t": "p",
+    "x": "Participating in community activities."
+   },
+   {
+    "t": "p",
+    "x": "Providing feedback and suggestions."
+   },
+   {
+    "t": "p",
+    "x": "Electing leadership where eligible."
+   },
+   {
+    "t": "p",
+    "x": "Holding leadership accountable through the agreed governance process."
+   },
+   {
+    "t": "p",
+    "x": "10.2"
+   },
+   {
+    "t": "p",
+    "x": "Executive Cabinet"
+   },
+   {
+    "t": "p",
+    "x": "The Executive Cabinet manages the organization's day-to-day activities within its approved authority. Suggested positions include:"
+   },
+   {
+    "t": "p",
+    "x": "President / Community Lead"
+   },
+   {
+    "t": "p",
+    "x": "Provides overall leadership. Chairs official meetings. Coordinates the cabinet. Represents BDH in approved external engagements. Ensures decisions follow the constitution and policies."
+   },
+   {
+    "t": "p",
+    "x": "Vice President / Deputy Lead"
+   },
+   {
+    "t": "p",
+    "x": "Supports the President. Coordinates tasks when the President is unavailable. Helps resolve internal coordination issues."
+   },
+   {
+    "t": "p",
+    "x": "General Secretary"
+   },
+   {
+    "t": "p",
+    "x": "Maintains meeting minutes and official records. Coordinates announcements and meeting schedules. Maintains approved membership and administrative records."
+   },
+   {
+    "t": "p",
+    "x": "Finance Manager / Treasurer"
+   },
+   {
+    "t": "p",
+    "x": "Maintains income and expense records. Keeps receipts and supporting documents. Prepares financial summaries. Reports organizational finances to authorized leadership and members as required."
+   },
+   {
+    "t": "p",
+    "x": "Social Media Manager"
+   },
+   {
+    "t": "p",
+    "x": "Manages approved social media communications. Publishes announcements and member profiles with permission. Maintains professional branding and communication standards."
+   },
+   {
+    "t": "p",
+    "x": "Event Coordinator"
+   },
+   {
+    "t": "p",
+    "x": "Organizes venue arrangements, schedules, registrations, and volunteer assignments. Coordinates event logistics and follow-up."
+   },
+   {
+    "t": "p",
+    "x": "Education & Training Coordinator"
+   },
+   {
+    "t": "p",
+    "x": "Identifies learning needs. Coordinates mentors, workshops, and educational activities."
+   },
+   {
+    "t": "p",
+    "x": "Membership & Community Coordinator"
+   },
+   {
+    "t": "p",
+    "x": "Welcomes new members. Helps members understand community rules. Supports respectful communication and participation."
+   },
+   {
+    "t": "p",
+    "x": "Additional roles may be introduced according to BDH's needs."
+   },
+   {
+    "t": "p",
+    "x": "10.3"
+   },
+   {
+    "t": "p",
+    "x": "Election of the Cabinet"
+   },
+   {
+    "t": "p",
+    "x": "The founding members should approve an election procedure at the inaugural event or at a properly announced general meeting. The proposed procedure is:"
+   },
+   {
+    "t": "li",
+    "x": "Announce the positions to be filled."
+   },
+   {
+    "t": "li",
+    "x": "Invite eligible members to nominate themselves or other willing candidates."
+   },
+   {
+    "t": "li",
+    "x": "Confirm that candidates accept their nominations."
+   },
+   {
+    "t": "li",
+    "x": "Explain each role and its responsibilities."
+   },
+   {
+    "t": "li",
+    "x": "Conduct a fair vote using an agreed voting method."
+   },
+   {
+    "t": "li",
+    "x": "Count votes transparently."
+   },
+   {
+    "t": "li",
+    "x": "Announce the results and record them in the meeting minutes."
+   },
+   {
+    "t": "p",
+    "x": "Before voting, members should agree on eligibility, quorum, the voting method, tie-breaking rules, and term length. No person should claim a permanent leadership position without authorization under the approved governance process."
+   },
+   {
+    "t": "p",
+    "x": "10.4"
+   },
+   {
+    "t": "p",
+    "x": "Leadership Term and Accountability"
+   },
+   {
+    "t": "p",
+    "x": "The proposed cabinet term is one year, subject to approval by the founding members. Cabinet members should provide reasonable progress updates, maintain organizational records, and cooperate with a proper handover when their term ends. A leader may resign voluntarily. Removal or replacement should follow a fair procedure established by the approved constitution, including notice of concerns and an opportunity to respond."
+   },
+   {
+    "t": "p",
+    "x": "10.5"
+   },
+   {
+    "t": "p",
+    "x": "Interim Management"
+   },
+   {
+    "t": "p",
+    "x": "Before the first cabinet is elected, founding organizers may appoint temporary coordinators to manage essential tasks. Interim appointments should have clearly defined responsibilities and limited authority. They should not be treated as permanent appointments."
+   }
+  ]
+ },
+ {
+  "n": 11,
+  "title": "Financial Management & Transparency Policy",
+  "tag": "Finance",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Financial transparency is essential to maintaining trust."
+   },
+   {
+    "t": "p",
+    "x": "11.1"
+   },
+   {
+    "t": "p",
+    "x": "Sources of Funds"
+   },
+   {
+    "t": "p",
+    "x": "Depending on the activity and applicable requirements, BDH may receive:"
+   },
+   {
+    "t": "p",
+    "x": "Voluntary donations."
+   },
+   {
+    "t": "p",
+    "x": "Approved sponsorships."
+   },
+   {
+    "t": "p",
+    "x": "Event registration fees."
+   },
+   {
+    "t": "p",
+    "x": "Voluntary contributions from members."
+   },
+   {
+    "t": "p",
+    "x": "Grants or other lawful sources of support."
+   },
+   {
+    "t": "p",
+    "x": "Every collection must have a clear purpose. Members must be informed in advance about any required fee, its amount, the payment method, and how it will be used."
+   },
+   {
+    "t": "p",
+    "x": "11.2"
+   },
+   {
+    "t": "p",
+    "x": "Use of Funds"
+   },
+   {
+    "t": "p",
+    "x": "Funds must be used only for approved organizational purposes, such as:"
+   },
+   {
+    "t": "p",
+    "x": "Venue rental."
+   },
+   {
+    "t": "p",
+    "x": "Printing and stationery."
+   },
+   {
+    "t": "p",
+    "x": "Event equipment."
+   },
+   {
+    "t": "p",
+    "x": "Educational materials."
+   },
+   {
+    "t": "p",
+    "x": "Approved marketing and communication expenses."
+   },
+   {
+    "t": "p",
+    "x": "Necessary administrative costs."
+   },
+   {
+    "t": "p",
+    "x": "Other documented community activities."
+   },
+   {
+    "t": "p",
+    "x": "Personal expenses must not be presented as organizational expenses."
+   },
+   {
+    "t": "p",
+    "x": "11.3"
+   },
+   {
+    "t": "p",
+    "x": "Financial Records"
+   },
+   {
+    "t": "p",
+    "x": "The Finance Manager should maintain a record of:"
+   },
+   {
+    "t": "p",
+    "x": "Amount received"
+   },
+   {
+    "t": "p",
+    "x": "Date of receipt"
+   },
+   {
+    "t": "p",
+    "x": "Source or category of funds"
+   },
+   {
+    "t": "p",
+    "x": "Purpose of collection"
+   },
+   {
+    "t": "p",
+    "x": "Approved expenses"
+   },
+   {
+    "t": "p",
+    "x": "Receipts or supporting evidence"
+   },
+   {
+    "t": "p",
+    "x": "Remaining balance"
+   },
+   {
+    "t": "p",
+    "x": "Where possible, a second authorized person should verify significant payments and the closing balance."
+   },
+   {
+    "t": "p",
+    "x": "11.4"
+   },
+   {
+    "t": "p",
+    "x": "Spending Approval"
+   },
+   {
+    "t": "p",
+    "x": "Before an expense is made, the amount and purpose should be approved according to a spending procedure agreed upon by the cabinet. Larger or unusual expenses should require additional approval. No individual should have unrestricted authority to collect, spend, and privately control all organizational funds."
+   },
+   {
+    "t": "p",
+    "x": "11.5"
+   },
+   {
+    "t": "p",
+    "x": "Financial Reporting"
+   },
+   {
+    "t": "p",
+    "x": "A financial summary should be shared with the authorized leadership and, at suitable intervals, with members. For each event, BDH should aim to report:"
+   },
+   {
+    "t": "p",
+    "x": "Total amount collected."
+   },
+   {
+    "t": "p",
+    "x": "Total amount spent."
+   },
+   {
+    "t": "p",
+    "x": "Main expense categories."
+   },
+   {
+    "t": "p",
+    "x": "Remaining balance."
+   },
+   {
+    "t": "p",
+    "x": "How any remaining funds will be used."
+   },
+   {
+    "t": "p",
+    "x": "Donations and fees must not be represented as refundable unless the applicable terms clearly provide for a refund."
+   },
+   {
+    "t": "p",
+    "x": "11.6"
+   },
+   {
+    "t": "p",
+    "x": "Personal Financial Benefit"
+   },
+   {
+    "t": "p",
+    "x": "BDH funds must not be distributed as profit to cabinet members or ordinary members. Reimbursement of genuine, approved organizational expenses is permitted when supported by appropriate records. Any paid services, honoraria, or compensation must be explicitly authorized, disclosed, documented, and consistent with BDH's non-profit purpose and applicable law."
+   }
+  ]
+ },
+ {
+  "n": 12,
+  "title": "Event Management Policy",
+  "tag": "Operations",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "BDH may organize meetings, seminars, workshops, training sessions, networking events, and other educational activities. For every official event, organizers should communicate:"
+   },
+   {
+    "t": "p",
+    "x": "Event date and venue."
+   },
+   {
+    "t": "p",
+    "x": "Registration requirements."
+   },
+   {
+    "t": "p",
+    "x": "Any applicable fee."
+   },
+   {
+    "t": "p",
+    "x": "Event objectives and schedule."
+   },
+   {
+    "t": "p",
+    "x": "Contact person for questions."
+   },
+   {
+    "t": "p",
+    "x": "Attendance and cancellation arrangements, where applicable."
+   },
+   {
+    "t": "p",
+    "x": "Special Provision: 20 October 2026 Inaugural Meetup"
+   },
+   {
+    "t": "p",
+    "x": "For the 20 October 2026 event at Amir Marriage Hall, Bannu, the organizers should make the registration and payment conditions clear before accepting registrations or fees. Event fees must be handled through the approved financial process and used for the stated event or other properly authorized purpose. Attendance should be managed fairly, and no person should be promised a financial reward merely for attending. Organizers should take reasonable steps to protect participants' safety, respect their privacy, and obtain permission before publishing photographs or recordings where consent is required."
+   }
+  ]
+ },
+ {
+  "n": 13,
+  "title": "Code of Conduct & Disciplinary Policy",
+  "tag": "Conduct",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "BDH expects all members, volunteers, and leaders to act responsibly. The following conduct is unacceptable:"
+   },
+   {
+    "t": "p",
+    "x": "Harassment, bullying, or threats."
+   },
+   {
+    "t": "p",
+    "x": "Discrimination or deliberate humiliation."
+   },
+   {
+    "t": "p",
+    "x": "Fraud, impersonation, or deliberate misrepresentation."
+   },
+   {
+    "t": "p",
+    "x": "Misuse of funds or organizational property."
+   },
+   {
+    "t": "p",
+    "x": "Sharing confidential information without authorization."
+   },
+   {
+    "t": "p",
+    "x": "Repeated disruption of community activities."
+   },
+   {
+    "t": "p",
+    "x": "Using leadership authority to threaten, exploit, or unfairly benefit oneself."
+   },
+   {
+    "t": "p",
+    "x": "Retaliation against a member who raises a genuine concern."
+   },
+   {
+    "t": "p",
+    "x": "13.1"
+   },
+   {
+    "t": "p",
+    "x": "Complaint Procedure"
+   },
+   {
+    "t": "p",
+    "x": "A member may raise a concern with the designated community representative or an appropriate leader who is not involved in the complaint. The process should generally include:"
+   },
+   {
+    "t": "li",
+    "x": "Receiving and recording the concern."
+   },
+   {
+    "t": "li",
+    "x": "Reviewing the available information fairly."
+   },
+   {
+    "t": "li",
+    "x": "Giving the person concerned a reasonable opportunity to respond."
+   },
+   {
+    "t": "li",
+    "x": "Keeping sensitive details confidential where possible."
+   },
+   {
+    "t": "li",
+    "x": "Deciding on an appropriate response."
+   },
+   {
+    "t": "li",
+    "x": "Recording the outcome when necessary."
+   },
+   {
+    "t": "p",
+    "x": "A leader who is personally involved in a complaint should not control the decision about that complaint."
+   },
+   {
+    "t": "p",
+    "x": "13.2"
+   },
+   {
+    "t": "p",
+    "x": "Possible Disciplinary Actions"
+   },
+   {
+    "t": "p",
+    "x": "Depending on the seriousness and circumstances, BDH may use:"
+   },
+   {
+    "t": "p",
+    "x": "Informal guidance."
+   },
+   {
+    "t": "p",
+    "x": "A verbal or written warning."
+   },
+   {
+    "t": "p",
+    "x": "Removal of inappropriate content."
+   },
+   {
+    "t": "p",
+    "x": "Temporary restriction from a group or activity."
+   },
+   {
+    "t": "p",
+    "x": "Suspension of membership privileges."
+   },
+   {
+    "t": "p",
+    "x": "Removal from an organizational role."
+   },
+   {
+    "t": "p",
+    "x": "Termination of membership following a fair process."
+   },
+   {
+    "t": "p",
+    "x": "Serious threats, suspected fraud, or immediate safety risks may require prompt protective action. Internal procedures do not replace lawful reporting or other legal remedies where appropriate. Members should have a reasonable opportunity to request a review of a significant disciplinary decision."
+   }
+  ]
+ },
+ {
+  "n": 14,
+  "title": "Conflict of Interest Policy",
+  "tag": "Governance",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "A conflict of interest occurs when a person's private, professional, or financial interests could improperly influence a decision made for BDH. Examples include:"
+   },
+   {
+    "t": "p",
+    "x": "Awarding a paid contract to a relative without disclosing the relationship."
+   },
+   {
+    "t": "p",
+    "x": "Using organizational funds to benefit a personal business."
+   },
+   {
+    "t": "p",
+    "x": "Giving opportunities to friends without a fair process."
+   },
+   {
+    "t": "p",
+    "x": "Using confidential member information for private commercial gain."
+   },
+   {
+    "t": "p",
+    "x": "Members and leaders must disclose relevant conflicts before participating in the affected decision. Where necessary, the person with the conflict should not take part in approving that decision. Personal businesses and professional services are not prohibited. The requirement is honest disclosure and fair treatment."
+   }
+  ]
+ },
+ {
+  "n": 15,
+  "title": "Privacy, Data Protection & Intellectual Property",
+  "tag": "Legal",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "BDH must respect the privacy and ownership rights of its members."
+   },
+   {
+    "t": "li",
+    "x": "."
+   },
+   {
+    "t": "p",
+    "x": "Personal information should be collected only for legitimate community purposes."
+   },
+   {
+    "t": "li",
+    "x": "."
+   },
+   {
+    "t": "p",
+    "x": "Registration lists, phone numbers, payment records, and private conversations must not be published without proper authorization."
+   },
+   {
+    "t": "li",
+    "x": "."
+   },
+   {
+    "t": "p",
+    "x": "Access to sensitive records should be limited to authorized people."
+   },
+   {
+    "t": "li",
+    "x": "."
+   },
+   {
+    "t": "p",
+    "x": "Members must obtain permission before using another person's photographs, designs, videos, or portfolio work."
+   },
+   {
+    "t": "li",
+    "x": "."
+   },
+   {
+    "t": "p",
+    "x": "A member retains ownership of their own original work unless a separate agreement lawfully provides otherwise."
+   },
+   {
+    "t": "li",
+    "x": "."
+   },
+   {
+    "t": "p",
+    "x": "BDH may use a member's approved contribution for official community purposes according to the permission granted."
+   },
+   {
+    "t": "li",
+    "x": "."
+   },
+   {
+    "t": "p",
+    "x": "Members must not claim ownership of work created by another person."
+   },
+   {
+    "t": "li",
+    "x": "."
+   },
+   {
+    "t": "p",
+    "x": "Official account passwords and administrative access must be handled securely and transferred properly when responsibilities change."
+   },
+   {
+    "t": "p",
+    "x": "Members should understand that joining a WhatsApp group or attending an event does not automatically authorize BDH to publish their photographs, testimonials, or personal information for every purpose."
+   }
+  ]
+ },
+ {
+  "n": 16,
+  "title": "Use of the BDH Name, Logo & Official Platforms",
+  "tag": "Legal",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "The BDH name, logo, social media accounts, and official communication channels must be used responsibly. Members must not:"
+   },
+   {
+    "t": "p",
+    "x": "Present personal opinions as official BDH decisions."
+   },
+   {
+    "t": "p",
+    "x": "Collect money in BDH's name without authorization."
+   },
+   {
+    "t": "p",
+    "x": "Make unauthorized commitments on behalf of BDH."
+   },
+   {
+    "t": "p",
+    "x": "Use BDH branding to promote fraudulent or misleading activities."
+   },
+   {
+    "t": "p",
+    "x": "Official statements should be issued by authorized representatives. Social media account access and branding assets should remain under documented organizational control rather than the exclusive personal control of a single outgoing leader."
+   }
+  ]
+ },
+ {
+  "n": 17,
+  "title": "Equality, Inclusion & Community Respect",
+  "tag": "Governance",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "BDH welcomes people with different levels of experience, educational backgrounds, and financial circumstances. We aim to create an environment where beginners can ask questions without fear of humiliation and experienced professionals can share knowledge without being exploited."
+   },
+   {
+    "t": "p",
+    "x": "No member should be treated as less valuable because they are a student, unemployed, a beginner, or unable to contribute money. Members should be evaluated according to their conduct, contributions, and relevant skills rather than their wealth or social status."
+   },
+   {
+    "t": "p",
+    "x": "BDH may adopt additional safeguarding arrangements for activities involving minors or other vulnerable participants."
+   }
+  ]
+ },
+ {
+  "n": 18,
+  "title": "Partnerships & Sponsorships",
+  "tag": "Operations",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "BDH may collaborate with educational institutions, businesses, training providers, community organizations, and other lawful partners. Before entering an official partnership, authorized representatives should clarify:"
+   },
+   {
+    "t": "p",
+    "x": "The purpose of the partnership."
+   },
+   {
+    "t": "p",
+    "x": "Each party's responsibilities."
+   },
+   {
+    "t": "p",
+    "x": "Any financial contribution or sponsorship."
+   },
+   {
+    "t": "p",
+    "x": "Branding and publicity permissions."
+   },
+   {
+    "t": "p",
+    "x": "Ownership of materials and records."
+   },
+   {
+    "t": "p",
+    "x": "Any conditions for ending the partnership."
+   },
+   {
+    "t": "p",
+    "x": "Partnerships must support BDH's educational and community objectives. No sponsor or partner should be promised exclusive control over BDH's membership, leadership, or finances without a properly approved and lawful agreement."
+   }
+  ]
+ },
+ {
+  "n": 19,
+  "title": "Resignation, Removal & Handover",
+  "tag": "Governance",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "A member may leave BDH voluntarily. A cabinet member who resigns should, where reasonably possible, provide a written notice and hand over official documents, accounts, records, funds, and equipment."
+   },
+   {
+    "t": "p",
+    "x": "Removal from membership or a leadership role must follow the relevant disciplinary or governance procedure. Organizational records and property must not be withheld for personal reasons or treated as private possessions."
+   }
+  ]
+ },
+ {
+  "n": 20,
+  "title": "Policy Amendments",
+  "tag": "Governance",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "These policies may be updated as BDH grows. Proposed changes should be shared with members in advance and discussed at an appropriately announced meeting."
+   },
+   {
+    "t": "p",
+    "x": "The founding members should approve a clear amendment procedure specifying voting eligibility, quorum, and the required majority. All approved amendments should be recorded, dated, and communicated to members. No leader should make a substantial permanent change to the constitution solely through an informal personal announcement."
+   }
+  ]
+ },
+ {
+  "n": 21,
+  "title": "Dispute Resolution",
+  "tag": "Legal",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "BDH encourages members to resolve ordinary disagreements through respectful communication. Where informal discussion is unsuccessful, the parties may request assistance from an impartial representative or a small review committee. The review process should be fair, confidential where appropriate, and free from personal retaliation."
+   },
+   {
+    "t": "p",
+    "x": "If a dispute concerns alleged fraud, serious misconduct, financial misuse, or unlawful activity, BDH may need to take protective action or refer the matter to the appropriate authorities. These internal policies do not prevent anyone from exercising their legal rights."
+   }
+  ]
+ },
+ {
+  "n": 22,
+  "title": "Dissolution or Closure of BDH",
+  "tag": "Legal",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "If BDH is formally discontinued, the authorized leadership should:"
+   },
+   {
+    "t": "li",
+    "x": "Inform members of the decision and its reasons."
+   },
+   {
+    "t": "li",
+    "x": "Prepare a final financial statement."
+   },
+   {
+    "t": "li",
+    "x": "Settle legitimate outstanding liabilities."
+   },
+   {
+    "t": "li",
+    "x": "Protect or lawfully dispose of member information."
+   },
+   {
+    "t": "li",
+    "x": "Return borrowed equipment and property."
+   },
+   {
+    "t": "li",
+    "x": "Transfer or dispose of remaining organizational assets according to the approved governing rules and applicable law."
+   },
+   {
+    "t": "p",
+    "x": "Remaining funds or assets must not be distributed as personal profit among members or leaders. They should be transferred to an appropriate educational, charitable, or community purpose where permitted by the governing rules and applicable law."
+   }
+  ]
+ },
+ {
+  "n": 23,
+  "title": "Implementation & Review",
+  "tag": "Governance",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "These policies should be presented to the founding members for discussion and approval. BDH should maintain a written record of the approved version, the date of approval, and any amendments."
+   },
+   {
+    "t": "p",
+    "x": "A policy review should take place periodically, or whenever major changes in activities, membership, finances, or applicable requirements make it necessary. The leadership should ensure that members can access the current version."
+   }
+  ]
+ },
+ {
+  "n": 24,
+  "title": "Member Declaration",
+  "tag": "Conduct",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "By participating in Bannu Digital Hub, I acknowledge that:"
+   },
+   {
+    "t": "p",
+    "x": "BDH is intended to be a non-profit, community-focused initiative."
+   },
+   {
+    "t": "p",
+    "x": "My membership does not guarantee direct financial earnings."
+   },
+   {
+    "t": "p",
+    "x": "I will respect fellow members and follow the approved community rules."
+   },
+   {
+    "t": "p",
+    "x": "I will not misuse the organization's name, funds, property, or confidential information."
+   },
+   {
+    "t": "p",
+    "x": "I understand that volunteering is based on willingness and agreed responsibilities."
+   },
+   {
+    "t": "p",
+    "x": "I will support learning, collaboration, transparency, and ethical professional conduct."
+   },
+   {
+    "t": "p",
+    "x": "I will contribute positively to the community according to my abilities."
+   },
+   {
+    "t": "p",
+    "x": "Formal Endorsement & Signature Slip"
+   },
+   {
+    "t": "p",
+    "x": "Document ID: BDH-CONST-2026"
+   },
+   {
+    "t": "p",
+    "x": "Member Name:"
+   },
+   {
+    "t": "p",
+    "x": "______________________________"
+   },
+   {
+    "t": "p",
+    "x": "Signature (optional):"
+   },
+   {
+    "t": "p",
+    "x": "________________________"
+   },
+   {
+    "t": "p",
+    "x": "Date:"
+   },
+   {
+    "t": "p",
+    "x": "_____________________________________"
+   }
+  ]
+ },
+ {
+  "n": 25,
+  "title": "Official Statement",
+  "tag": "Governance",
+  "blocks": [
+   {
+    "t": "p",
+    "x": "Bannu Digital Hub exists to create a culture of learning, collaboration, and community development. Our goal is to help people gain knowledge, build confidence, develop practical skills, and create better opportunities for themselves. We do not measure success only by money. We also value trust, knowledge, professional growth, meaningful relationships, and the positive impact we can have on other people's lives. We welcome every sincere person who believes that sharing knowledge can strengthen a community."
+   },
+   {
+    "t": "p",
+    "x": "Bannu Digital Hub"
+   },
+   {
+    "t": "p",
+    "x": "Connect • Learn • Collaborate • Grow"
+   },
+   {
+    "t": "p",
+    "x": "Learn together. Grow together. Help others move forward."
+   }
+  ]
+ }
+]
