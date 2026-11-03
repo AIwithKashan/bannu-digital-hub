@@ -13,7 +13,7 @@
   [![GSAP](https://img.shields.io/badge/GSAP-3.15-88CE02?style=for-the-badge&logo=greensock&logoColor=white)](https://gsap.com/)
   [![Lenis](https://img.shields.io/badge/Lenis-Smooth_Scroll-black?style=for-the-badge)](https://lenis.darkroom.engineering/)
 
-  [Explore Live Website](https://www.bannudigitalhub.com/) • [Report Bug](https://github.com/AIwithKashan/bannu-digital-hub/issues) • [Request Feature](https://github.com/AIwithKashan/bannu-digital-hub/issues)
+  [Explore Live Website](https://bdh-seven.vercel.app) • [Report Bug](https://github.com/AIwithKashan/bannu-digital-hub/issues) • [Request Feature](https://github.com/AIwithKashan/bannu-digital-hub/issues)
 
 </div>
 
@@ -217,7 +217,7 @@ bannu-digital-hub/
 - **Address:** Asmatullah Plaza, 2nd Floor, Railway Road, Bannu City, Khyber Pakhtunkhwa 28100, Pakistan
 - **Phone:** `+92 335 9915641`
 - **Email:** [support@bannudigitalhub.com](mailto:support@bannudigitalhub.com)
-- **Official Website:** [https://www.bannudigitalhub.com/](https://www.bannudigitalhub.com/)
+- **Live Website:** [https://bdh-seven.vercel.app](https://bdh-seven.vercel.app)
 
 ---
 

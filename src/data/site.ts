@@ -1,7 +1,7 @@
 export const SITE = {
   name: "Bannu Digital Hub",
   short: "BDH",
-  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://www.bannudigitalhub.com",
+  url: process.env.NEXT_PUBLIC_SITE_URL ?? "https://bdh-seven.vercel.app",
   tagline: "Connect · Learn · Collaborate · Grow",
   description:
     "Bannu Digital Hub is a grassroots community connecting freelancers, developers, designers, e-commerce sellers and students across Bannu and Southern Khyber Pakhtunkhwa.",
